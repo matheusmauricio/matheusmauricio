@@ -11,7 +11,13 @@
   <a href = "mailto:matheus_mauricio@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-mauricio-de-souza-araujo-1b3a52185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
+
+##
+
+<div> 
+ ![Snake animation](https://github.com/matheusmauricio/matheusmauricio/blob/output/github-contribution-grid-snake.svg)
+</div>
+ 
 ##
 
 <img src="https://komarev.com/ghpvc/?username=matheusmauricio&color=green" alt="matheusmauricio" /> 
